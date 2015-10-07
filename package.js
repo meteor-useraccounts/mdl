@@ -1,7 +1,9 @@
 Package.describe({
     name: 'kctang:useraccounts-mdl',
     version: '0.0.1',
-    summary: 'Accounts Templates MDL.'
+    summary: 'Accounts Templates MDL.',
+    documentation: 'README.md',
+    git: 'https://github.com/kctang/useraccounts-mdl.git'
 });
 
 Package.on_use(function (api, where) {
