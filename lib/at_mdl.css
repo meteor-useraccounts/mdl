@@ -79,3 +79,7 @@
 .at-error {
     color: #de3226
 }
+
+.at-form {
+    justify-content: center;
+}
