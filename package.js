@@ -1,6 +1,6 @@
 Package.describe({
     name: 'kctang:useraccounts-mdl',
-    version: '0.0.1',
+    version: '0.0.2',
     summary: 'Accounts Templates MDL.',
     documentation: 'README.md',
     git: 'https://github.com/kctang/useraccounts-mdl.git'
