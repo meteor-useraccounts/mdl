@@ -1,10 +1,10 @@
-# kctang:useraccounts-mdl
+# useraccounts:mdl
 
 This is an implementation to style useraccounts with Material Design Lite (MDL) based on the unstyled.
 
 Main concept is to apply MDL grid, cell and shadow classes to the templates appropriately.
 
-WORK IN PROGRESS - Only main sign in and sign up screens tested. However, the at_ templates seem easy enough to customize. So maybe you can help to fill in the blanks for any at_ templates. 
+WORK IN PROGRESS - Only main sign in and sign up screens tested. However, the at_ templates seem easy enough to customize. So maybe you can help to fill in the blanks for any at_ templates.
 
 
 ## Bring Your Own MDL
