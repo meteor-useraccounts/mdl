@@ -1,9 +1,9 @@
 Package.describe({
-    name: 'kctang:useraccounts-mdl',
+    name: 'useraccounts:mdl',
     version: '0.0.2',
     summary: 'Accounts Templates MDL.',
     documentation: 'README.md',
-    git: 'https://github.com/kctang/useraccounts-mdl.git'
+    git: 'https://github.com/meteor-useraccounts/mdl.git'
 });
 
 Package.on_use(function (api, where) {
@@ -70,7 +70,7 @@ Package.on_use(function (api, where) {
 
 Package.on_test(function (api) {
     api.use([
-        'kctang:useraccounts-mdl',
+        'useraccounts:mdl',
         'useraccounts:core@1.12.3'
     ]);
 
