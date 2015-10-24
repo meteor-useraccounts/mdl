@@ -9,9 +9,9 @@ WORK IN PROGRESS - Only main sign in and sign up screens tested. However, the at
 
 ## Bring Your Own MDL
 
-Adding this package with `meteor add kctang:useraccounts-mdl` does not install CSS from MDL. You will need to make sure MDL is properly initialized. This can either be done by manually adding MDL support to your project or using some of the MDL packages from Atmosphere.
+Adding this package with `meteor add useraccounts:mdl` does not install CSS from MDL. You will need to make sure MDL is properly initialized. This can either be done by manually adding MDL support to your project or using some of the MDL packages from Atmosphere.
 
-THe `zodiase:mdl` package seems to be pretty well maintained. I was using this during development.
+The `zodiase:mdl` package seems to be pretty well maintained. I was using this during development.
 
 ## Contributing
 
