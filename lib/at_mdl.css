@@ -80,6 +80,10 @@
     color: #de3226
 }
 
-.at-form {
+.full-page-at-form {
     justify-content: center;
+}
+
+.at-form {
+    max-width: 400px;
 }
