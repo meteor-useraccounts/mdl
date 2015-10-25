@@ -81,9 +81,5 @@
 }
 
 .full-page-at-form {
-    justify-content: center;
-}
-
-.at-form {
     max-width: 400px;
 }
